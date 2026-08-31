@@ -297,6 +297,6 @@
     }
   ],
   "spider": [
-    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/jar/catvod-min-spider.jar"
+    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/spider.zip"
   ]
 }
