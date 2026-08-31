@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-08-30",
-    "vodCount": 65,
+    "generated": "2026-08-31",
+    "vodCount": 67,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -314,6 +314,15 @@
       "playable": 1
     },
     {
+      "key": "apilsbzy1.com",
+      "name": "老色逼",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "detail": "",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "xiaojizy.live",
       "name": "小鸡资源",
       "type": 1,
@@ -557,6 +566,15 @@
       "playable": 1
     },
     {
+      "key": "apiyutu.com",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "detail": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "vnzyz.com",
       "name": "越南",
       "type": 1,
@@ -601,5 +619,9 @@
       "searchable": 1,
       "playable": 1
     }
+  ],
+  "spider": [
+    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/jar/catvod-min-spider.jar",
+    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/jar/custom_spider.jar"
   ]
 }
