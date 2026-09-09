@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-08-31",
-    "vodCount": 67,
+    "generated": "2026-09-09",
+    "vodCount": 62,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -188,15 +188,6 @@
       "playable": 1
     },
     {
-      "key": "www.ryzyw.com",
-      "name": "🎬如意资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "www.haohuazy.com",
       "name": "🎬豪华资源",
       "type": 1,
@@ -332,15 +323,6 @@
       "playable": 1
     },
     {
-      "key": "hsckzy.xyz",
-      "name": "黄色仓库",
-      "type": 1,
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "detail": "",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "apidanaizi.com",
       "name": "大奶子",
       "type": 1,
@@ -458,15 +440,6 @@
       "playable": 1
     },
     {
-      "key": "91md.me",
-      "name": "麻豆资源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "kxgav.com",
       "name": "白嫖资源",
       "type": 1,
@@ -530,15 +503,6 @@
       "playable": 1
     },
     {
-      "key": "niuniuzy.me",
-      "name": "牛牛资源",
-      "type": 1,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-      "detail": "https://api.niuniuzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "tyyszyapi.com",
       "name": "天涯影视",
       "type": 1,
@@ -571,15 +535,6 @@
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
       "detail": "https://apiyutu.com/api.php/provide/vod/",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "vnzyz.com",
-      "name": "越南",
-      "type": 1,
-      "api": "https://api.vnzyz.com/api.php/provide/vod/",
-      "detail": "https://api.vnzyz.com/api.php/provide/vod/",
       "searchable": 1,
       "playable": 1
     },
