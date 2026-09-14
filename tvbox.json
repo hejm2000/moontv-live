@@ -1,7 +1,7 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（普通版，无🔞）",
-    "generated": "2026-09-13",
+    "generated": "2026-09-14",
     "vodCount": 30,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
