@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-14",
-    "vodCount": 66,
+    "generated": "2026-09-15",
+    "vodCount": 65,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -291,15 +291,6 @@
       "name": "155资源",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod",
-      "detail": "",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "fhapi9.com",
-      "name": "番号资源",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod",
       "detail": "",
       "searchable": 1,
       "playable": 1
