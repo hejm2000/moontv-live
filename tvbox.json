@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（普通版，无🔞）",
-    "generated": "2026-09-17",
-    "vodCount": 30,
+    "generated": "2026-09-18",
+    "vodCount": 29,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -175,15 +175,6 @@
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "caiji.moduapi.cc",
-      "name": "🎬魔都动漫",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "detail": "https://caiji.moduapi.cc",
       "searchable": 1,
       "playable": 1
     },
