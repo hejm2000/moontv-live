@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-18",
-    "vodCount": 65,
+    "generated": "2026-09-19",
+    "vodCount": 64,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -179,6 +179,15 @@
       "playable": 1
     },
     {
+      "key": "caiji.moduapi.cc",
+      "name": "🎬魔都动漫",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "www.haohuazy.com",
       "name": "🎬豪华资源",
       "type": 1,
@@ -309,15 +318,6 @@
       "name": "小鸡资源",
       "type": 1,
       "api": "https://api.xiaojizy.live/provide/vod",
-      "detail": "",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "hsckzy.xyz",
-      "name": "黄色仓库",
-      "type": 1,
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
       "detail": "",
       "searchable": 1,
       "playable": 1
@@ -517,15 +517,6 @@
       "type": 1,
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "detail": "https://tyyszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "iqiyizyapi.com",
-      "name": "爱奇艺",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "playable": 1
     },
