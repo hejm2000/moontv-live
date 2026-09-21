@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（普通版，无🔞）",
-    "generated": "2026-09-21",
-    "vodCount": 30,
+    "generated": "2026-09-22",
+    "vodCount": 29,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -220,15 +220,6 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "wujinzy.com",
-      "name": "🎬无尽影视",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com",
       "searchable": 1,
       "playable": 1
     },

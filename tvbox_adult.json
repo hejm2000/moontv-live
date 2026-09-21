@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-21",
-    "vodCount": 66,
+    "generated": "2026-09-22",
+    "vodCount": 63,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -224,15 +224,6 @@
       "playable": 1
     },
     {
-      "key": "wujinzy.com",
-      "name": "🎬无尽影视",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "www.huyaapi.com",
       "name": "🎬虎牙资源",
       "type": 1,
@@ -413,15 +404,6 @@
       "playable": 1
     },
     {
-      "key": "xiangjiaozyw.com",
-      "name": "香蕉资源",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "detail": "",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
       "key": "xingba111.com",
       "name": "杏吧资源",
       "type": 1,
@@ -535,15 +517,6 @@
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "xxibaozyw.com",
-      "name": "细胞网",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "detail": "https://www.xxibaozyw.com/api.php/provide/vod",
       "searchable": 1,
       "playable": 1
     },
