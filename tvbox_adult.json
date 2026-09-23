@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-23",
-    "vodCount": 62,
+    "generated": "2026-09-24",
+    "vodCount": 63,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -76,6 +76,15 @@
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.moduzy.net",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "ffzyapi.com",
+      "name": "🎬非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
       "searchable": 1,
       "playable": 1
     },
@@ -211,6 +220,15 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "wujinzy.com",
+      "name": "🎬无尽影视",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "detail": "https://wujinzy.com",
       "searchable": 1,
       "playable": 1
     },
@@ -499,15 +517,6 @@
       "type": 1,
       "api": "https://tyyszyapi.com/api.php/provide/vod/",
       "detail": "https://tyyszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "iqiyizyapi.com",
-      "name": "爱奇艺",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "playable": 1
     },
