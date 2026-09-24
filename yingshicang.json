@@ -335,15 +335,6 @@
       "filterable": 1
     },
     {
-      "key": "鲨鱼资源",
-      "name": "鲨鱼资源",
-      "type": 1,
-      "api": "https://shayuzy5.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
       "type": 1,
@@ -366,6 +357,15 @@
       "name": "搜AV资源",
       "type": 1,
       "api": "https://api.souavzyw.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 1,
+      "api": "https://fqzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -456,33 +456,6 @@
       "name": "滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CK百货资源",
-      "name": "CK百货资源",
-      "type": 1,
-      "api": "https://ckbh.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "桃花资源",
-      "name": "桃花资源",
-      "type": 1,
-      "api": "https://thzy1.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "番茄资源",
-      "name": "番茄资源",
-      "type": 1,
-      "api": "https://fqzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
