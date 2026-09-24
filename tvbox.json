@@ -288,6 +288,6 @@
     }
   ],
   "spider": [
-    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@v1/spider.zip"
+    "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/spider.zip"
   ]
 }
