@@ -477,6 +477,96 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "CK百货资源",
+      "name": "CK百货资源",
+      "type": 1,
+      "api": "https://ckbh.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小鸡",
+      "name": "小鸡",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黄仓",
+      "name": "黄仓",
+      "type": 1,
+      "api": "https://hsckzy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆豆",
+      "name": "豆豆",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑料",
+      "name": "黑料",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "伦理",
+      "name": "伦理",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星辰",
+      "name": "星辰",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美少女",
+      "name": "美少女",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PGX",
+      "name": "PGX",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KXG",
+      "name": "KXG",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
