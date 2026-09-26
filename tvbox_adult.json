@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-26",
-    "vodCount": 54,
+    "generated": "2026-09-27",
+    "vodCount": 56,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -17,11 +17,29 @@
   ],
   "sites": [
     {
+      "key": "dbzy.tv",
+      "name": "🎬豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "detail": "https://dbzy.tv",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "mtzy.me",
       "name": "🎬茅台资源",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "dyttzyapi.com",
+      "name": "🎬电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com",
       "searchable": 1,
       "playable": 1
     },
