@@ -2,7 +2,7 @@
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（普通版，无🔞）",
     "generated": "2026-09-27",
-    "vodCount": 26,
+    "vodCount": 21,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -53,11 +53,11 @@
       "playable": 1
     },
     {
-      "key": "360zy.com",
-      "name": "🎬360 资源",
+      "key": "jszyapi.com",
+      "name": "🎬极速资源",
       "type": 1,
-      "api": "https://360zyzz.com/api.php/provide/vod",
-      "detail": "https://360zy.com",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
       "searchable": 1,
       "playable": 1
     },
@@ -71,11 +71,11 @@
       "playable": 1
     },
     {
-      "key": "bfzy.tv",
-      "name": "🎬暴风资源",
+      "key": "ffzyapi.com",
+      "name": "🎬非凡资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "detail": "https://bfzy.tv",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
       "searchable": 1,
       "playable": 1
     },
@@ -94,51 +94,6 @@
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "detail": "https://wujinzy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "www.subozy.com",
-      "name": "🎬速播资源",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": "https://www.subozy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "jinyingzy.com",
-      "name": "🎬金鹰点播",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "detail": "https://jinyingzy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "p2100.net",
-      "name": "🎬飘零资源",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "api.ukuapi88.com",
-      "name": "🎬U酷影视",
-      "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://www.ukuzy.com",
-      "searchable": 1,
-      "playable": 1
-    },
-    {
-      "key": "api.guangsuapi.com",
-      "name": "🎬光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "detail": "https://api.guangsuapi.com",
       "searchable": 1,
       "playable": 1
     },
