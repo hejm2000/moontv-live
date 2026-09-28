@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-09-28",
-    "vodCount": 56,
+    "generated": "2026-09-29",
+    "vodCount": 62,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -58,6 +58,15 @@
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod",
       "detail": "https://360zy.com",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "jszyapi.com",
+      "name": "🎬极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
       "searchable": 1,
       "playable": 1
     },
@@ -350,6 +359,15 @@
       "playable": 1
     },
     {
+      "key": "slapibf.com",
+      "name": "森林资源",
+      "type": 1,
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "detail": "",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "didizy.com",
       "name": "滴滴资源",
       "type": 1,
@@ -404,6 +422,15 @@
       "playable": 1
     },
     {
+      "key": "doudouzy.com",
+      "name": "豆豆资源",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "detail": "",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
       "key": "kxgav.com",
       "name": "白嫖资源",
       "type": 1,
@@ -418,6 +445,15 @@
       "type": 1,
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "xxavs.com",
+      "name": "湿乐园",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod",
+      "detail": "https://xxavs.com",
       "searchable": 1,
       "playable": 1
     },
@@ -481,6 +517,24 @@
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "apiyutu.com",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "detail": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "fqzy.me",
+      "name": "番茄",
+      "type": 1,
+      "api": "https://fqzy.me/api.php/provide/vod/",
+      "detail": "https://fqzy.me/api.php/provide/vod/",
       "searchable": 1,
       "playable": 1
     },
