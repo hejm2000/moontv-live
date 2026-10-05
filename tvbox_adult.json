@@ -1,8 +1,8 @@
 {
   "_meta": {
     "note": "MoonTV 精选源 TVBox 配置（含 🔞 源）",
-    "generated": "2026-10-05",
-    "vodCount": 64,
+    "generated": "2026-10-06",
+    "vodCount": 66,
     "liveUrl": "https://cdn.jsdelivr.net/gh/hejm2000/moontv-live@main/iptv.m3u",
     "source": "MoonTV (LunaTV) homelab 源池, 周保鲜自动更新"
   },
@@ -589,6 +589,24 @@
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/",
       "detail": "",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "dadizy11.com",
+      "name": "大地资源",
+      "type": 1,
+      "api": "https://dadiapi.com/feifei",
+      "detail": "https://dadizy11.com",
+      "searchable": 1,
+      "playable": 1
+    },
+    {
+      "key": "tyyszy.com",
+      "name": "🎬天涯影视",
+      "type": 1,
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com",
       "searchable": 1,
       "playable": 1
     }
