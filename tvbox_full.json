@@ -563,16 +563,6 @@
       "ext": "https://tyyszyapi.com/api.php/provide/vod/"
     },
     {
-      "key": "iqiyizyapi.com",
-      "name": "🔞爱奇艺",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://iqiyizyapi.com/api.php/provide/vod"
-    },
-    {
       "key": "apiyutu.com",
       "name": "🔞玉兔",
       "type": 1,
