@@ -640,6 +640,13 @@
       "url": "https://live.zbds.top/tv/iptv4.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "logo": ""
+    },
+    {
+      "name": "moonlive精选(周更407台)",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/hejm2000/moontv-live/main/iptv.m3u",
+      "epg": "",
+      "logo": ""
     }
   ],
   "parses": [],

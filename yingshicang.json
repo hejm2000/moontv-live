@@ -272,6 +272,15 @@
       "filterable": 1
     },
     {
+      "key": "量子短剧",
+      "name": "量子短剧",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?t=46",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "非凡短剧",
       "name": "非凡短剧",
       "type": 1,
@@ -389,10 +398,28 @@
       "filterable": 1
     },
     {
+      "key": "玉兔",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "森林",
       "name": "森林",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "老色逼",
+      "name": "老色逼",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -537,24 +564,6 @@
       "name": "豆豆资源",
       "type": 1,
       "api": "https://doudouzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "量子短剧",
-      "name": "量子短剧",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?t=46",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "精品X资源",
-      "name": "精品X资源",
-      "type": 1,
-      "api": "https://jingpinx.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
