@@ -323,16 +323,6 @@
       "ext": ""
     },
     {
-      "key": "apilsbzy1.com",
-      "name": "🔞老色逼",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "xiaojizy.live",
       "name": "🔞小鸡资源",
       "type": 1,
@@ -573,16 +563,6 @@
       "ext": "https://iqiyizyapi.com/api.php/provide/vod"
     },
     {
-      "key": "apiyutu.com",
-      "name": "🔞玉兔",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://apiyutu.com/api.php/provide/vod/"
-    },
-    {
       "key": "vnzyz.com",
       "name": "🔞越南",
       "type": 1,
@@ -659,6 +639,13 @@
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": ""
+    },
+    {
+      "name": "moonlive精选(周更407台)",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/hejm2000/moontv-live/main/iptv.m3u",
+      "epg": "",
       "logo": ""
     }
   ],
