@@ -213,16 +213,6 @@
       "ext": "https://bdzy1.com"
     },
     {
-      "key": "lzizy.net",
-      "name": "🎬量子影视",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lzizy.net"
-    },
-    {
       "key": "wujinzy.com",
       "name": "🎬无尽影视",
       "type": 1,
@@ -241,16 +231,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.huyaapi.com"
-    },
-    {
-      "key": "yayazy3.com",
-      "name": "🎬鸭鸭资源",
-      "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayazy3.com"
     },
     {
       "key": "suonizy.net",
