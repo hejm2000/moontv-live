@@ -223,16 +223,6 @@
       "ext": "https://lzizy.net"
     },
     {
-      "key": "wujinzy.com",
-      "name": "🎬无尽影视",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://wujinzy.com"
-    },
-    {
       "key": "www.huyaapi.com",
       "name": "🎬虎牙资源",
       "type": 1,
