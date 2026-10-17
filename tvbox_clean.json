@@ -143,16 +143,6 @@
       "ext": "https://jinyingzy.com"
     },
     {
-      "key": "p2100.net",
-      "name": "🎬飘零资源",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://p2100.net"
-    },
-    {
       "key": "api.ukuapi88.com",
       "name": "🎬U酷影视",
       "type": 1,
@@ -221,6 +211,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://lzizy.net"
+    },
+    {
+      "key": "wujinzy.com",
+      "name": "🎬无尽影视",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wujinzy.com"
     },
     {
       "key": "www.huyaapi.com",
