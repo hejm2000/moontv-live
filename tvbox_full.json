@@ -143,16 +143,6 @@
       "ext": "https://jinyingzy.com"
     },
     {
-      "key": "p2100.net",
-      "name": "🎬飘零资源",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://p2100.net"
-    },
-    {
       "key": "api.ukuapi88.com",
       "name": "🎬U酷影视",
       "type": 1,
@@ -651,6 +641,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tyyszy.com"
+    },
+    {
+      "key": "bhziyuan.com",
+      "name": "百花资源站",
+      "type": 1,
+      "api": "https://bhziyuan.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "ys.cxkjg.cn",
+      "name": "🌟 创享影视 私人影视库全量",
+      "type": 1,
+      "api": "http://ys.cxkjg.cn/api/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
     }
   ],
   "lives": [
