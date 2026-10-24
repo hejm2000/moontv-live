@@ -416,15 +416,6 @@
       "filterable": 1
     },
     {
-      "key": "桃花资源",
-      "name": "桃花资源",
-      "type": 1,
-      "api": "https://thzy1.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "小鸡",
       "name": "小鸡",
       "type": 1,
@@ -546,6 +537,33 @@
       "name": "老色逼",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "CK百货资源",
+      "name": "CK百货资源",
+      "type": 1,
+      "api": "https://ckbh.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "桃花资源",
+      "name": "桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 1,
+      "api": "https://fqzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
