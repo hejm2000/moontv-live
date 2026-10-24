@@ -3,16 +3,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "dbzy.tv",
-      "name": "🎬豆瓣资源",
-      "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://dbzy.tv"
-    },
-    {
       "key": "mtzy.me",
       "name": "🎬茅台资源",
       "type": 1,
@@ -141,6 +131,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jinyingzy.com"
+    },
+    {
+      "key": "p2100.net",
+      "name": "🎬飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://p2100.net"
     },
     {
       "key": "api.ukuapi88.com",
@@ -503,16 +503,6 @@
       "ext": "https://json.xingba222.com"
     },
     {
-      "key": "hsckzy888.com",
-      "name": "🔞黄色仓库2",
-      "type": 1,
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hsckzy888.com"
-    },
-    {
       "key": "jipinvip1.com",
       "name": "🔞新极品",
       "type": 1,
@@ -551,16 +541,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tyyszyapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "iqiyizyapi.com",
-      "name": "🔞爱奇艺",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://iqiyizyapi.com/api.php/provide/vod"
     },
     {
       "key": "apiyutu.com",
@@ -621,16 +601,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gdlsp.com/api/json.php"
-    },
-    {
-      "key": "dadizy11.com",
-      "name": "🔞大地资源",
-      "type": 1,
-      "api": "https://dadiapi.com/feifei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://dadizy11.com"
     },
     {
       "key": "tyyszy.com",

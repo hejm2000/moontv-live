@@ -3,16 +3,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "dbzy.tv",
-      "name": "🎬豆瓣资源",
-      "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://dbzy.tv"
-    },
-    {
       "key": "mtzy.me",
       "name": "🎬茅台资源",
       "type": 1,
@@ -141,6 +131,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jinyingzy.com"
+    },
+    {
+      "key": "p2100.net",
+      "name": "🎬飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://p2100.net"
     },
     {
       "key": "api.ukuapi88.com",
