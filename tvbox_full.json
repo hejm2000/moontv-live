@@ -3,16 +3,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "dbzy.tv",
-      "name": "🎬豆瓣资源",
-      "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://dbzy.tv"
-    },
-    {
       "key": "mtzy.me",
       "name": "🎬茅台资源",
       "type": 1,
@@ -493,16 +483,6 @@
       "ext": "https://www.xrbsp.com"
     },
     {
-      "key": "xxavs.com",
-      "name": "🔞湿乐园",
-      "type": 1,
-      "api": "https://xxavs.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xxavs.com"
-    },
-    {
       "key": "json.xingba222.com",
       "name": "🔞杏吧资源2",
       "type": 1,
@@ -511,16 +491,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://json.xingba222.com"
-    },
-    {
-      "key": "hsckzy888.com",
-      "name": "🔞黄色仓库2",
-      "type": 1,
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hsckzy888.com"
     },
     {
       "key": "jipinvip1.com",
