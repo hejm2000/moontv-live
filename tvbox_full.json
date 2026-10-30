@@ -453,16 +453,6 @@
       "ext": ""
     },
     {
-      "key": "doudouzy.com",
-      "name": "🔞豆豆资源",
-      "type": 1,
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "kxgav.com",
       "name": "🔞白嫖资源",
       "type": 1,
@@ -511,6 +501,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://hsckzy888.com"
+    },
+    {
+      "key": "jipinvip1.com",
+      "name": "🔞新极品",
+      "type": 1,
+      "api": "https://jipinvip1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jipinvip1.com/api.php/provide/vod/"
     },
     {
       "key": "zuidazy.me",
