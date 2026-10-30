@@ -83,15 +83,6 @@
       "filterable": 1
     },
     {
-      "key": "茅台资源",
-      "name": "茅台资源",
-      "type": 1,
-      "api": "https://caiji.maotai999.vip/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "360资源",
       "name": "360资源",
       "type": 1,
@@ -555,6 +546,15 @@
       "name": "番茄资源",
       "type": 1,
       "api": "https://fqzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "淘片资源",
+      "name": "淘片资源",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
