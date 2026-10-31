@@ -453,6 +453,16 @@
       "ext": ""
     },
     {
+      "key": "doudouzy.com",
+      "name": "🔞豆豆资源",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "kxgav.com",
       "name": "🔞白嫖资源",
       "type": 1,
