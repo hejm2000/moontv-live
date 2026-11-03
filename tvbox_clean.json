@@ -53,6 +53,16 @@
       "ext": "https://jszyapi.com"
     },
     {
+      "key": "www.moduzy.net",
+      "name": "🎬魔都资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.moduzy.net"
+    },
+    {
       "key": "ffzyapi.com",
       "name": "🎬非凡资源",
       "type": 1,
@@ -121,6 +131,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jinyingzy.com"
+    },
+    {
+      "key": "p2100.net",
+      "name": "🎬飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://p2100.net"
     },
     {
       "key": "api.ukuapi88.com",
