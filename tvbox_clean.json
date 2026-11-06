@@ -3,16 +3,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "mtzy.me",
-      "name": "🎬茅台资源",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mtzy.me"
-    },
-    {
       "key": "dyttzyapi.com",
       "name": "🎬电影天堂",
       "type": 1,
