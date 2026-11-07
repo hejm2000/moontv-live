@@ -137,15 +137,6 @@
       "filterable": 1
     },
     {
-      "key": "豆瓣资源",
-      "name": "豆瓣资源",
-      "type": 1,
-      "api": "https://dbzy.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "天涯影视",
       "name": "天涯影视",
       "type": 1,
@@ -528,15 +519,6 @@
       "name": "CK百货资源",
       "type": 1,
       "api": "https://ckbh.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "桃花资源",
-      "name": "桃花资源",
-      "type": 1,
-      "api": "https://thzy1.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
