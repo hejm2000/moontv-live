@@ -433,16 +433,6 @@
       "ext": ""
     },
     {
-      "key": "semaozy1.com",
-      "name": "🔞色猫资源",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "doudouzy.com",
       "name": "🔞豆豆资源",
       "type": 1,
