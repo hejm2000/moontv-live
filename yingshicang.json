@@ -549,6 +549,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "桃花资源",
+      "name": "桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xyezy资源",
+      "name": "xyezy资源",
+      "type": 1,
+      "api": "https://d2zkz619qhge88.cloudfront.net/api/provide/xyezy/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
