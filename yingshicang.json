@@ -290,15 +290,6 @@
       "filterable": 1
     },
     {
-      "key": "滴滴资源",
-      "name": "滴滴资源",
-      "type": 1,
-      "api": "https://didizy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
       "type": 1,
