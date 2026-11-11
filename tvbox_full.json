@@ -53,16 +53,6 @@
       "ext": "https://www.moduzy.net"
     },
     {
-      "key": "ffzyapi.com",
-      "name": "🎬非凡资源",
-      "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cj.ffzyapi.com"
-    },
-    {
       "key": "bfzy.tv",
       "name": "🎬暴风资源",
       "type": 1,
@@ -313,26 +303,6 @@
       "ext": ""
     },
     {
-      "key": "xiaojizy.live",
-      "name": "🔞小鸡资源",
-      "type": 1,
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "hsckzy.xyz",
-      "name": "🔞黄色仓库",
-      "type": 1,
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "apidanaizi.com",
       "name": "🔞大奶子",
       "type": 1,
@@ -413,16 +383,6 @@
       "ext": ""
     },
     {
-      "key": "souavzyw.com",
-      "name": "🔞souavZY",
-      "type": 1,
-      "api": "https://api.souavzyw.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "xingba111.com",
       "name": "🔞杏吧资源",
       "type": 1,
@@ -471,16 +431,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://json.xingba222.com"
-    },
-    {
-      "key": "hsckzy888.com",
-      "name": "🔞黄色仓库2",
-      "type": 1,
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hsckzy888.com"
     },
     {
       "key": "jipinvip1.com",
@@ -601,16 +551,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tyyszy.com"
-    },
-    {
-      "key": "bhziyuan.com",
-      "name": "百花资源站",
-      "type": 1,
-      "api": "https://bhziyuan.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
     },
     {
       "key": "ys.cxkjg.cn",

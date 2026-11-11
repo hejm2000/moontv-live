@@ -53,16 +53,6 @@
       "ext": "https://www.moduzy.net"
     },
     {
-      "key": "ffzyapi.com",
-      "name": "🎬非凡资源",
-      "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cj.ffzyapi.com"
-    },
-    {
       "key": "bfzy.tv",
       "name": "🎬暴风资源",
       "type": 1,
