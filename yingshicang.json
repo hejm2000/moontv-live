@@ -254,15 +254,6 @@
       "filterable": 1
     },
     {
-      "key": "JKUN资源",
-      "name": "JKUN资源",
-      "type": 1,
-      "api": "https://jkunzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "155资源",
       "name": "155资源",
       "type": 1,
@@ -330,15 +321,6 @@
       "name": "森林",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "鸡坤",
-      "name": "鸡坤",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
