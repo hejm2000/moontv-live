@@ -3,16 +3,6 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "mtzy.me",
-      "name": "🎬茅台资源",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mtzy.me"
-    },
-    {
       "key": "dyttzyapi.com",
       "name": "🎬电影天堂",
       "type": 1,
@@ -133,16 +123,6 @@
       "ext": "https://jinyingzy.com"
     },
     {
-      "key": "p2100.net",
-      "name": "🎬飘零资源",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://p2100.net"
-    },
-    {
       "key": "api.ukuapi88.com",
       "name": "🎬U酷影视",
       "type": 1,
@@ -201,6 +181,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bdzy1.com"
+    },
+    {
+      "key": "lovedan.net",
+      "name": "🎬艾旦影视",
+      "type": 1,
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lovedan.net"
     },
     {
       "key": "lzizy.net",
@@ -363,6 +353,16 @@
       "ext": ""
     },
     {
+      "key": "thzy8.me",
+      "name": "🔞桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "ckzy.me",
       "name": "🔞CK资源",
       "type": 1,
@@ -377,6 +377,16 @@
       "name": "🔞杏吧资源",
       "type": 1,
       "api": "https://xingba222.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "semaozy1.com",
+      "name": "🔞色猫资源",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -491,6 +501,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://apiyutu.com/api.php/provide/vod/"
+    },
+    {
+      "key": "vnzyz.com",
+      "name": "🔞越南",
+      "type": 1,
+      "api": "https://api.vnzyz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api.vnzyz.com/api.php/provide/vod/"
     },
     {
       "key": "fqzy.me",
