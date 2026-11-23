@@ -101,6 +101,15 @@
       "filterable": 1
     },
     {
+      "key": "豆瓣资源",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://dbzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "天涯影视",
       "name": "天涯影视",
       "type": 1,
@@ -456,15 +465,6 @@
       "name": "黄仓",
       "type": 1,
       "api": "https://hsckzy.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "搜AV资源",
-      "name": "搜AV资源",
-      "type": 1,
-      "api": "https://api.souavzyw.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
