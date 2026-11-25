@@ -193,6 +193,16 @@
       "ext": "https://yayazy3.com"
     },
     {
+      "key": "155zy2.com",
+      "name": "🔞155资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "fhapi9.com",
       "name": "🔞番号资源",
       "type": 1,
@@ -353,26 +363,6 @@
       "ext": ""
     },
     {
-      "key": "kxgav.com",
-      "name": "🔞白嫖资源",
-      "type": 1,
-      "api": "https://www.kxgav.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kxgav.com"
-    },
-    {
-      "key": "xrbsp.com",
-      "name": "🔞X水机",
-      "type": 1,
-      "api": "https://www.xrbsp.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xrbsp.com"
-    },
-    {
       "key": "json.xingba222.com",
       "name": "🔞杏吧资源2",
       "type": 1,
@@ -381,6 +371,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://json.xingba222.com"
+    },
+    {
+      "key": "hsckzy888.com",
+      "name": "🔞黄色仓库2",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hsckzy888.com"
     },
     {
       "key": "jipinvip1.com",
@@ -461,36 +461,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://fqzy.me/api.php/provide/vod/"
-    },
-    {
-      "key": "msnii.com",
-      "name": "🔞美少女",
-      "type": 1,
-      "api": "https://www.msnii.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.msnii.com/api/json.php"
-    },
-    {
-      "key": "pgxdy.com",
-      "name": "🔞黄av",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.pgxdy.com/api/json.php"
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "🔞香X儿",
-      "type": 1,
-      "api": "https://www.gdlsp.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gdlsp.com/api/json.php"
     },
     {
       "key": "tyyszy.com",
